@@ -1,6 +1,7 @@
 <div align="center">
     <img src="https://raw.githubusercontent.com/collective-dao/collectif-audits/main/logo.svg">
 </div>
+
 # Collectif DAO smart contracts audit reports
 This repo contains audit reports for smart contracts developed by Collectif DAO.
 
